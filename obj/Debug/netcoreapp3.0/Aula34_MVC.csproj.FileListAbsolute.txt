@@ -1,0 +1,11 @@
+C:\Users\senai\Desktop\Aula34_MVC\bin\Debug\netcoreapp3.0\Aula34_MVC.exe
+C:\Users\senai\Desktop\Aula34_MVC\bin\Debug\netcoreapp3.0\Aula34_MVC.deps.json
+C:\Users\senai\Desktop\Aula34_MVC\bin\Debug\netcoreapp3.0\Aula34_MVC.runtimeconfig.json
+C:\Users\senai\Desktop\Aula34_MVC\bin\Debug\netcoreapp3.0\Aula34_MVC.runtimeconfig.dev.json
+C:\Users\senai\Desktop\Aula34_MVC\bin\Debug\netcoreapp3.0\Aula34_MVC.dll
+C:\Users\senai\Desktop\Aula34_MVC\bin\Debug\netcoreapp3.0\Aula34_MVC.pdb
+C:\Users\senai\Desktop\Aula34_MVC\obj\Debug\netcoreapp3.0\Aula34_MVC.csprojAssemblyReference.cache
+C:\Users\senai\Desktop\Aula34_MVC\obj\Debug\netcoreapp3.0\Aula34_MVC.AssemblyInfoInputs.cache
+C:\Users\senai\Desktop\Aula34_MVC\obj\Debug\netcoreapp3.0\Aula34_MVC.AssemblyInfo.cs
+C:\Users\senai\Desktop\Aula34_MVC\obj\Debug\netcoreapp3.0\Aula34_MVC.dll
+C:\Users\senai\Desktop\Aula34_MVC\obj\Debug\netcoreapp3.0\Aula34_MVC.pdb
